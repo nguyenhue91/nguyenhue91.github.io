@@ -1,0 +1,40 @@
+title: Nguyen Dinh Quang
+tagline: "Qndev's blog"
+description: "#technology, #code, #Open Source, #linux, #java"
+url: "https://qndev.github.io"
+baseurl: ""
+twitter_username: amaryllisapril
+github_username: qndev
+
+# Dependencies
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+
+# Permalinks
+permalink: pretty
+
+author:
+  name: NGUYEN DINH QUANG
+  email: quangnd.hust@gmail.com
+
+paginate: 5
+paginate_path: "/posts/page:num/"
+
+github:
+  repo: https://github.com/qndev
+
+# Disqus Comments
+disqus:
+  shortname: nguyen-dinh-quang
+
+google_analytics: # UA
+
+plugins:
+  - jekyll-gist
+  - jekyll-octicons
+  - jekyll-paginate
+  - jemoji
+
+excerpt_separator: <!--more-->
