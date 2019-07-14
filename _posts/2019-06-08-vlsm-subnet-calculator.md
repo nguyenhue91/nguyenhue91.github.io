@@ -8,7 +8,7 @@ comments: true
 
 ### Một số lưu ý.
 
-* Cấu trúc của địa chỉ IP:
+**Cấu trúc của địa chỉ IP:**
 
 Địa chỉ ipv4  có độ dài là 32 bits được chia làm 2 phần là host và phần network.
 Tùy vào giải địa chỉ ip cũng như việc chia mạng con của từng lớp khác nhau mà ta sẽ có số bits của phần host cũng như phần network khác nhau.
@@ -17,17 +17,17 @@ Tùy vào giải địa chỉ ip cũng như việc chia mạng con của từng 
 
 <!--more-->
 
-* Ip Address trước và sau khi chia mạng con.
+**Ip Address trước và sau khi chia mạng con.**
 
 ![IP Address Structure After Division](https://raw.githubusercontent.com/qndev/blog/gh-pages/images/posts/1920px-Subnetting_Concept-en.svg)
 
-* Private IP Addresses
+**Private IP Addresses**
 
-   | Class | Private Networks | Subnet Mask | Address Range |
-   |:-----:|:----------------:|:-----------:|:-------------:|
-   |A|10.0.0.0|255.0.0.0|10.0.0.0 - 10.255.255.255|
-   |B|172.16.0.0 - 172.31.0.0|255.240.0.0|172.16.0.0 - 172.31.255.255|
-   |C|192.168.0.0|255.255.0.0|192.168.0.0 - 192.168.255.255|
+| Class | Private Networks | Subnet Mask | Address Range |
+|:-----:|:----------------:|:-----------:|:-------------:|
+|A|10.0.0.0|255.0.0.0|10.0.0.0 - 10.255.255.255|
+|B|172.16.0.0 - 172.31.0.0|255.240.0.0|172.16.0.0 - 172.31.255.255|
+|C|192.168.0.0|255.255.0.0|192.168.0.0 - 192.168.255.255|
 
 <a name="ip"></a>
 
