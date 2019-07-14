@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: Archives
 ---
 
 <h3>Blog Posts</h3>
