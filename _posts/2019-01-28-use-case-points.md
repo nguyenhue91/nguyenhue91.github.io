@@ -74,7 +74,7 @@ comments: true
 
   * #### Environmental Complexity Factor
 
-![Environmental Complexity Factor](https://raw.githubusercontent.com/qndev/blog/gh-pages/images/post/ecf.png)
+![Environmental Complexity Factor](https://raw.githubusercontent.com/qndev/qndev.github.io/master/public/images/ecf.png)
 
   * #### Estimate Effort
 
