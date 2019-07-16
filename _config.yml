@@ -2,7 +2,7 @@ title: Nguyen Dinh Quang
 tagline: "Qndev's blog"
 description: "#technology, #code, #Open Source, #linux, #java, #funny tech stories"
 url: "https://qndev.github.io"
-baseurl: ""
+baseurl: "/releases"
 twitter_username: amaryllisapril
 github_username: qndev
 
