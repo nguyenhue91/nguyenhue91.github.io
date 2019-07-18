@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hyde
+title: About Site
 ---
 
 ### Hello & Welcome!
@@ -123,3 +123,10 @@ Hyde has two branches, but only one is used for active development.
 Open sourced under the [MIT license](LICENSE.md).
 
 <3
+
+---
+> I would love it if you would [subscribe to my blog's RSS feed](https://qndev.github.io/feed.xml).
+>
+> If you just want to email me, please send an email to [quangnd.hust@gmail.com](mailto:quangnd.hust@gmail.com).
+>
+> **Thanks for watching my Site.**

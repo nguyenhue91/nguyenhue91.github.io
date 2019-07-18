@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Me
+title: Curriculum Vitae
 ---
 
 ---
-## Nguyen Dinh Quang
+## Dinh Quang Nguyen
 @sis.hust.edu.vn
 
 [quangnd.hust@gmail.com](mailto:quangnd.hust@gmail.com) / [@qndev](http://github.com/qndev) / [https://qndev.github.io](https://qndev.github.io/)
@@ -13,17 +13,6 @@ title: About Me
 
 I'm a Student at [Hanoi University of Science and Technology](https://en.hust.edu.vn/home), Hanoi - Vietnam. Here I develop software, computer system, data structures and algorithms, programming techniques, database, Design analysis and software development.
 
-## Experience
-
-`Mar 2019 - Apr 2019`
-[__Sun*, Inc.__](https://sun-asterisk.vn/?lang=en) Lab Ruby
-
-`Apr 2018 - Jun 2018 `
-[__FPT Information System__](https://www.fpt-is.com) Intern - Performing work according to the assignment of the direct manager
-
-`Sep 2017 - Dec 2017`
-[__FPT Software__](https://www.fpt-software.com) On the Job training  - SAP-UI5
-
 ## Education
 
 `2014 - Current`
@@ -31,6 +20,17 @@ I'm a Student at [Hanoi University of Science and Technology](https://en.hust.ed
 
 - [__Hanoi University of Science and Technology__](https://en.hust.edu.vn/home)
   - [School of Information and Communication Technology](https://soict.hust.edu.vn/en/)
+
+## Experience
+
+`Mar 2019 - Apr 2019`
+[__Sun*, Inc.__](https://sun-asterisk.vn/?lang=en) Lab Ruby
+
+`Apr 2018 - Jun 2018 `
+[__FPT Information System.__](https://www.fpt-is.com) Internship - Performing work according to the assignment of the direct manager
+
+`Sep 2017 - Dec 2017`
+[__FPT Software.__](https://www.fpt-software.com) On the Job training  - SAP-UI5
 
 ## Projects
 
@@ -56,31 +56,27 @@ I write a blog at [qndev.github.io](https://qndev.github.io/) where its content 
 * UML
 * Bash
 * Git
-* Linux (Debian/Ubuntu/Fedora)
+* Linux distributions (Debian/Ubuntu/Fedora)
 
 ## Preferred technologies
 
-* Statistics
+* Mathematics
 * Machine learning
 * Software development
 * Software testing
 
+## Recommended reading
+
+* [Machine Learning Cơ Bản](https://tiki.vn/machine-learning-co-ban-p10833675.html)
+* [Introduction to Linear Algebra, Fifth Edition (2016)](http://math.mit.edu/~gs/linearalgebra/)
+* [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)
+
 ## Links
 
-* [LinkedIn](https://www.linkedin.com/in/qndev)
+* [Developer Story](https://stackoverflow.com/story/qndev)
+* [Facebook](https://www.facebook.com/quangnd.hust)
 * [Github](https://github.com/qndev)
 * [Keybase](https://keybase.io/amaryllis)
-* [Twitter](https://twitter.com/amaryllisapril)
-* [Facebook](https://www.facebook.com/quangnd.hust)
-
-## References
-
-* [Developer Story](https://stackoverflow.com/story/qndev)
+* [LinkedIn](https://www.linkedin.com/in/qndev)
 * [PDF_CV](https://amaryllis.keybase.pub/NGUYEN_DINH_QUANG.pdf)
-
----
-I would love it if you would [subscribe to my blog's RSS feed](https://qndev.github.io/feed.xml).
-
-If you just want to email me, please send an email to [quangnd.hust@gmail.com](mailto:quangnd.hust@gmail.com).
-
-**Thanks for watching my Site.**
+* [Twitter](https://twitter.com/amaryllisapril)
