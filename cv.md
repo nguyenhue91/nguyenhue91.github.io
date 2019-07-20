@@ -78,5 +78,5 @@ I write a blog at [qndev.github.io](https://qndev.github.io/) where its content 
 * [Github](https://github.com/qndev)
 * [Keybase](https://keybase.io/amaryllis)
 * [LinkedIn](https://www.linkedin.com/in/qndev)
-* [PDF_CV](https://amaryllis.keybase.pub/NGUYEN_DINH_QUANG.pdf)
+* [PDF_RESUME](https://qndev.github.io/NGUYEN_DINH_QUANG_RESUME.pdf)
 * [Twitter](https://twitter.com/amaryllisapril)
