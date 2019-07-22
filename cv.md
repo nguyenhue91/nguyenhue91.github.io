@@ -4,7 +4,7 @@ title: Curriculum Vitae
 ---
 
 ---
-## Dinh Quang Nguyen
+## Quang Nguyen Dinh
 @sis.hust.edu.vn
 
 [quangnd.hust@gmail.com](mailto:quangnd.hust@gmail.com) / [@qndev](http://github.com/qndev) / [https://qndev.github.io](https://qndev.github.io/)
@@ -24,13 +24,22 @@ I'm a Student at [Hanoi University of Science and Technology](https://en.hust.ed
 ## Experience
 
 `Mar 2019 - Apr 2019`
-[__Sun*, Inc.__](https://sun-asterisk.vn/?lang=en) Lab Ruby
+[__Sun*, Inc.__](https://sun-asterisk.vn/?lang=en) Ruby Laboratory - Web development
+
+Learned programming knowledge methodically (Ruby, Git, SQL).
+Learned and developed an Web Application with Rails framework that mimics the Ruby on Rails
+Tutorial. The project incorporated the MVC Design Pattern.
+Gained experience the real working environment (deadline/pressures).
 
 `Apr 2018 - Jun 2018 `
-[__FPT Information System.__](https://www.fpt-is.com) Internship - Performing work according to the assignment of the direct manager
+[__FPT Information System.__](https://www.fpt-is.com) Internship - Java development
+
+Performed work according to the assignment of the direct manager.
 
 `Sep 2017 - Dec 2017`
-[__FPT Software.__](https://www.fpt-software.com) On the Job training  - SAP-UI5
+[__FPT Software.__](https://www.fpt-software.com) On the Job training - SAP-UI5
+
+Developed application using OpenUI5, SAP Web IDE and the development environment.
 
 ## Projects
 
