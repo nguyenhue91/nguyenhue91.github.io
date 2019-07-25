@@ -1,10 +1,10 @@
 ---
-layout: page
-title: Curriculum Vitae
+layout: null
+title: CV
 ---
 
 ---
-## Quang Nguyen Dinh
+## Hue Nguyen
 @sis.hust.edu.vn
 
 [quangnd.hust@gmail.com](mailto:quangnd.hust@gmail.com) / [@qndev](http://github.com/qndev) / [https://qndev.github.io](https://qndev.github.io/)
