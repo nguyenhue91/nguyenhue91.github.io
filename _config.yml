@@ -1,10 +1,10 @@
-title: Nguyen Dinh Quang
-tagline: "Qndev's blog"
-description: "#technology, #code, #Open Source, #linux, #java, #funny tech stories"
-url: "https://qndev.github.io"
+title: Nguyễn Thị Huê
+tagline: "Hue Nguyen's blog"
+description: ""
+url: "https://nguyenhue91.github.io"
 baseurl: ""
-twitter_username: amaryllisapril
-github_username: qndev
+twitter_username:
+github_username: nguyenhue91
 
 # Dependencies
 markdown: kramdown
@@ -16,18 +16,18 @@ kramdown:
 permalink: pretty
 
 author:
-  name: NGUYEN DINH QUANG
-  email: quangnd.hust@gmail.com
+  name: NGUYEN THI HUE
+  email: 
 
 paginate: 5
-paginate_path: "/posts/page:num/"
+paginate_path: "/blog/page:num/"
 
 github:
-  repo: https://github.com/qndev
+  repo: https://github.com/nguyenhue91
 
 # Disqus Comments
 disqus:
-  shortname: nguyen-dinh-quang
+  shortname:
 
 google_analytics: # UA
 
